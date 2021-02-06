@@ -9,7 +9,7 @@ As a developer, you are given the task to replicate a picture as a website.
 ![Instagram Preview](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif?raw=true)
 
 2. Start the CSS and HTML from scratch, please do not re-use from another exercise because you will end up having a mess.
-3. Before starting to code make a drawing of the website will all the bootstrap components you will be using.
+3. Before starting to code, make a drawing of the website with all the bootstrap components that you will use.
 4. Once the components are identified start with the navbar (from top to bottom) and try adapting the examples you find on the internet to what you are asked on the picture. Don't just copy and paste, understand and tweek, if you don't understand the names of the classes used in the component you will end-up hitting a wall and being frustrated.
 5. Use all the possible [bootstrap utilities (helpers)](https://getbootstrap.com/docs/4.1/utilities), take your time to read them all because it will make your life 99% easier.
 6. The projects have to be 100% responsive using the bootstrap grid system.
